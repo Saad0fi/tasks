@@ -1,0 +1,1 @@
+enum ClientMode { thin, thick }
