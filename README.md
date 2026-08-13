@@ -82,6 +82,12 @@ Copy `.env.example` → `.env`. Never commit real keys.
 3. **Thin:** create/edit tasks while online only
 4. **Thick:** create tasks offline, then reconnect and watch sync
 
+## Demo
+
+https://github.com/Saad0fi/tasks/raw/master/docs/demo.mp4
+
+Thin vs Thick client toggle, offline create, and sync when back online.
+
 ## Related content
 
 - TikTok: [Thin Client & Thick Client](https://www.tiktok.com/@saad_0fi/video/7640627063077997845)
