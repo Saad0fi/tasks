@@ -84,7 +84,11 @@ Copy `.env.example` → `.env`. Never commit real keys.
 
 ## Demo
 
-https://github.com/Saad0fi/tasks/raw/master/docs/demo.mp4
+
+
+https://github.com/user-attachments/assets/11668326-2cb5-45bd-a015-8395ba06d580
+
+
 
 Thin vs Thick client toggle, offline create, and sync when back online.
 
